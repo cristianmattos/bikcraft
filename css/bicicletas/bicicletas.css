@@ -75,12 +75,6 @@
   align-items: center;
 }
 
-.bicicletas-conteudo img {
-  width: 24px;
-  margin-right: 8px;
-  align-content: start;
-}
-
 .bicicletas ul {
   display: grid;
   gap: 16px;
@@ -90,6 +84,13 @@
   margin-top: 16px;
 
 } */
+
+.bicicletas-conteudo img {
+  width: 24px;
+  margin-right: 8px;
+  align-content: start;
+}
+
 
 @media (max-width: 800px) {
   .bicicletas-bg {
